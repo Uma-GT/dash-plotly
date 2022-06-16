@@ -10,3 +10,7 @@ Dash is simple enough that you can bind a user interface to your code in less th
 Dash apps are rendered in the web browser. You can deploy your apps to VMs or Kubernetes clusters and then share them through URLs. Since Dash apps are viewed in the web browser, Dash is inherently cross-platform and mobile ready.
 
 There is a lot behind the framework. To learn more about how it is built and what motivated Dash, read our announcement letter or our post Dash is React for Python.
+
+![Alt text](https://github.com/Uma-GT/dash-plotly/blob/main/dash-plotly-landing-page1.jpeg?raw=true "dash-plotly-landing-page1")
+![Alt text](https://github.com/Uma-GT/dash-plotly/blob/main/dash-plotly-landing-page2.jpeg?raw=true "dash-plotly-landing-page2")
+
