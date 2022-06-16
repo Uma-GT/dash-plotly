@@ -11,6 +11,8 @@ Dash apps are rendered in the web browser. You can deploy your apps to VMs or Ku
 
 There is a lot behind the framework. To learn more about how it is built and what motivated Dash, read our announcement letter or our post Dash is React for Python.
 <br/>
+<br/>
+
 <b>Example Screenshots:</b>
 
 ![Alt text](https://github.com/Uma-GT/dash-plotly/blob/main/dash-plotly-landing-page1.jpeg?raw=true "dash-plotly-landing-page1")
